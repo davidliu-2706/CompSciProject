@@ -14,7 +14,7 @@ const createWindow = () => {
     }
   })
 
-  mainWindow.setBackgroundColor('black');
+  mainWindow.setBackgroundColor('#000000');
 
   // and load the index.html of the app.
   mainWindow.loadFile('welcome.html')
