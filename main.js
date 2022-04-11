@@ -1,5 +1,5 @@
 // main.js
-
+//gay
 // Modules to control application life and create native browser window
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
