@@ -14,10 +14,10 @@ const createWindow = () => {
     }
   })
 
-  mainWindow.setBackgroundColor('#FFFFFF');
+  mainWindow.setBackgroundColor('#000000');
 
   // and load the index.html of the app.
-  mainWindow.loadFile('index.html')
+  mainWindow.loadFile('welcome.html')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
