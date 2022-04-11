@@ -1,5 +1,5 @@
 // main.js
-
+//gay
 // Modules to control application life and create native browser window
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
@@ -14,10 +14,10 @@ const createWindow = () => {
     }
   })
 
-  mainWindow.setBackgroundColor('#000000');
+  mainWindow.setBackgroundColor('#FFFFFF');
 
   // and load the index.html of the app.
-  mainWindow.loadFile('welcome.html')
+  mainWindow.loadFile('index.html')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
