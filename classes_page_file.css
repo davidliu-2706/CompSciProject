@@ -1,0 +1,223 @@
+Body {
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    nav-down: 100;
+}
+
+/*#region Buttons*/
+.blockA {
+top: 35%;
+left: 20%;
+position: absolute;
+display: inline-block;
+width: 25%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 25px;
+cursor: pointer;
+text-align: center;
+}
+
+.edit_blockA {
+top: 35%;
+left: 46%;
+position: absolute;
+display: inline-block;
+width: 4%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 50%;
+cursor: pointer;
+text-align: center;
+}
+
+.blockB {
+top: 35%;
+left: 55%;
+position: absolute;
+display: inline-block;
+width: 25%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 25px;
+cursor: pointer;
+text-align: center;
+}
+
+.edit_blockB {
+top: 35%;
+left: 81%;
+position: absolute;
+display: inline-block;
+width: 4%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 50px;
+cursor: pointer;
+text-align: center;
+}
+
+.blockC {
+top: 50%;
+left: 20%;
+position: absolute;
+display: inline-block;
+width: 25%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 25px;
+cursor: pointer;
+text-align: center;
+}
+
+.edit_blockC {
+top: 50%;
+left: 46%;
+position: absolute;
+display: inline-block;
+width: 4%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 50px;
+cursor: pointer;
+text-align: center;
+}
+
+.blockD {
+top: 50%;
+left: 55%;
+position: absolute;
+display: inline-block;
+width: 25%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 25px;
+cursor: pointer;
+text-align: center;
+}
+
+.edit_blockD {
+top: 50%;
+left: 81%;
+position: absolute;
+display: inline-block;
+width: 4%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 50px;
+cursor: pointer;
+text-align: center;
+}
+
+.back {
+    top: 80%;
+    left: 10%;
+    position: absolute;
+    display: inline-block;
+    width: 4%;
+    height: 7%;
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    }
+
+.eval {
+top: 65%;
+left: 37.5%;
+position: absolute;
+display: inline-block;
+width: 25%;
+height: 7%;
+border: none;
+background-color: white;
+color: black;
+font-size: 25px;
+cursor: pointer;
+text-align: center;
+}
+/*#endregion*/
+
+/*#region Set Radius*/
+.blockA {border-radius: 2px;}
+.blockB {border-radius: 2px;}
+.blockC {border-radius: 2px;}
+.blockD {border-radius: 2px;}
+.edit_blockA {border-radius: 50%;}
+.edit_blockB {border-radius: 50%;}
+.edit_blockC {border-radius: 50%;}
+.edit_blockD {border-radius: 50%;}
+.eval {border-radius: 2px;}
+.back {border-radius: 2px;}
+/*#endregion*/
+
+/*#region On Hover*/
+.blockA:hover {
+background-color: #ddd;
+color: black;
+}
+
+.blockB:hover {
+background-color: #ddd;
+color: black;
+}
+
+.blockC:hover {
+background-color: #ddd;
+color: black;
+}
+
+.blockD:hover {
+background-color: #ddd;
+color: black;
+}
+
+.edit_blockA:hover {
+background-color: #ddd;
+color: black;
+}
+
+.edit_blockB:hover {
+background-color: #ddd;
+color: black;
+}
+
+.edit_blockC:hover {
+background-color: #ddd;
+color: black;
+}
+
+.edit_blockD:hover {
+background-color: #ddd;
+color: black;
+}
+
+.eval:hover {
+background-color: #ddd;
+color: black;
+}
+
+.back:hover {
+    background-color: #ddd;
+    color: black;
+}
+/*#endregion*/
