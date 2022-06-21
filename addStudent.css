@@ -1,0 +1,65 @@
+Body
+{
+color:white;
+font-size: 50px;
+text-align: center;
+nav-down: 100;
+}
+
+.AddStudent
+{
+    font-size: x-small;
+}
+.fname {
+    top: 24%;
+    left: 40%;
+    position: absolute;
+    display: First Name;
+    width: 15%;
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.lname{
+    top: 45%;
+    left: 40%;
+    position: absolute;
+    display: Last Name;
+    width: 15%;
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.submit{
+    display: Submit;
+    padding: 14px 28px;
+    font-size: 25px
+}
+
+.back{
+    top: 60%;
+    left: 80%;
+    position: absolute;
+    display: Last Name;
+    width: 15%;
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+  
+

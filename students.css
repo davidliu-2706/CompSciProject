@@ -1,0 +1,88 @@
+Body
+{
+color:white;
+font-size: 150px;
+text-align: center;
+nav-down: 100;
+}
+.block1 {
+  top: 35%;
+  left: 5%;
+  position: absolute;
+  display: block1;
+  width: 15%;
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+.block2 {
+  top: 50%;
+  left: 5%;
+  position: absolute;
+  display: block2;
+  width: 15%;
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.addStudent {
+  top: 10%;
+  left: 80%;
+  position: absolute;
+  display: addStudent;
+  width: 15%;
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.back {
+  top: 80%;
+  left: 10%;
+  position: absolute;
+  display: inline-block;
+  width: 4%;
+  height: 7%;
+  border: none;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  }
+
+  .back {border-radius: 2px;}
+
+
+.block1:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.block2:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.addStudent:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.back:hover{
+  background-color: #ddd;
+  color: black;
+}
